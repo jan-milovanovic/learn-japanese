@@ -20,9 +20,6 @@ Application content obtained from:
 Future plans:
 * Add video playback to desktop machines
 * Fix video to seek instantly upon load
-* Add searchbar
-* Add credit and links to original content creators
-* REDO next and previous button or swipe kanji radicals
 * Tutorial upon first app launch
 
 | | | | |
