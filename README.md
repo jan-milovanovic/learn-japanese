@@ -25,7 +25,7 @@ Future plans:
 * REDO next and previous button or swipe kanji radicals
 * Tutorial upon first app launch
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="main%20page.jpg" width="300"> <br> Main screen | <img src="first%201000%20page.jpg" width="300"> <br> first 1000 common words split by 10 per day | <img src="card%20lesson%20swipe.jpg" width="300"> <br> Card lesson, swipe the card to proceed. <br> Continue with a lesson writing the word into a romaji form |
-| <img src="solve%20lesson.jpg" width="300"> <br> Translate into romaji form | <img src="radical%20split%20by%20grade.jpg" width="300"> <br> Split kanji radicals into 6 groups | <img src="kanji%20radicals.jpg" width="300"> <br> Kanji radical lesson with video, explanations and kanji + art hint|
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="main%20page.jpg" width="300"> <br> Main screen | <img src="search.jpg" width="300"> <br> search | <img src="credits.jpg" width="300"> <br> credits |<img src="first%201000%20page.jpg" width="300"> <br> first 1000 common words split by 10 per day |
+| <img src="card%20lesson%20swipe.jpg" width="300"> <br> Card lesson, swipe the card to proceed. <br> Continue with a lesson writing the word into a romaji form | <img src="solve%20lesson.jpg" width="300"> <br> Translate into romaji form | <img src="radical%20split%20by%20grade.jpg" width="300"> <br> Split kanji radicals into 6 groups | <img src="kanji%20radicals.jpg" width="300"> <br> Kanji radical lesson with video, explanations and kanji + art hint|
